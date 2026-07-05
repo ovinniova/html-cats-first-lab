@@ -12,3 +12,5 @@ The assignment was to create a simple multi-page website using basic HTML elemen
 
 ## Author
 Zarina Shafikova
+
+## Live demo: https://ovinniova.github.io/html-cats-first-lab/
